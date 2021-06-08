@@ -1,0 +1,1 @@
+console.log('Welcome Armine to node.js.');
